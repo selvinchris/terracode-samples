@@ -1,3 +1,3 @@
 variable "ami" {}
 
-variable "inst-type" {}
+# variable "inst-type" {}
